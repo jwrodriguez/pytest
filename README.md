@@ -1,5 +1,6 @@
 # Sort an Array
-Use python to sort an array. Do not use the any functions given by python or imported through libraies.
+Use python to sort a signed array of type int. Do not use the any functions given by python or imported through libraies.
+The only import statement you should have is "import array"
 
 ### Ex:
 
