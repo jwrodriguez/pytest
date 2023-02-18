@@ -1,6 +1,6 @@
 # Sort an Array
 Use python to sort a signed array of type int. Do not use the any functions given by python or imported through libraies.
-The only import statement you should have is "import array"
+The only import statement you should have is "import array". DO NOT USE sort().
 
 ### Ex:
 
